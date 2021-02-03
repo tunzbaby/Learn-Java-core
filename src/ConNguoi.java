@@ -17,4 +17,5 @@ public class ConNguoi {
     void inTT() {
         // In thong tin con nguoi gom: hoTen, gioiTinh, diaChi, tuoi
     }
+    //Ok
 }

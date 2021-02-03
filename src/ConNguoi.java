@@ -12,7 +12,7 @@ abstract class ConNguoi { // abstract - truu tuong
 
     abstract void diChuyen() {
         // Noi dung phuong thuc di chuyen
-    }
+    } // Time
 
     void inTT() {
         // In thong tin con nguoi gom: hoTen, gioiTinh, diaChi, tuoi

@@ -1,4 +1,4 @@
-public class ConNguoi {
+abstract class ConNguoi { // abstract - truu tuong
     String hoTen, gioiTinh, diaChi;
     int tuoi;
 
@@ -6,16 +6,15 @@ public class ConNguoi {
         // Nhap thong tin cho cac thuoc tinh hoTen, gioiTinh, diaChi, tuoi
     }
 
-    void anUong() {
+    abstract void anUong() {
         // Noi dung phuong thuc an uong
     }
 
-    void diChuyen() {
+    abstract void diChuyen() {
         // Noi dung phuong thuc di chuyen
     }
 
     void inTT() {
         // In thong tin con nguoi gom: hoTen, gioiTinh, diaChi, tuoi
     }
-    //lungddfdfdf
 }

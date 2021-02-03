@@ -9,7 +9,7 @@ public class QuanLy {
     }
 
     void themHocSinh(NhanVien nhanVien) {
-        // Them nhan vien vao danh sach
+        // Them nhan vie5n vao danh sach
     }
 
     NhanVien timKiemNhanVien(String maNV) {
@@ -37,5 +37,4 @@ public class QuanLy {
     void hienThiDSNV() {
         // Hien thi danh sach thong tin tung nhan vien
     }
-
 }
